@@ -118,7 +118,15 @@ main {
     border: 1px solid rgb(194, 192, 192);
     text-align: center;
 }
-
+.div1{
+    background-color: rgb(195, 241, 96);
+}
+.div2{
+    background-color: rgb(116, 175, 228);
+}
+.div3{
+    background-color: #f17e7e;
+}
 
 footer {
     background-color: black;
